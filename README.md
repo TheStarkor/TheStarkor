@@ -11,5 +11,5 @@
 - School Projects : [[Dr.Papper](https://github.com/bonjune/dr-papper)], [[Eye-Car](https://github.com/TheStarkor/Eye-Car)]
 
 ### Interest
-- Letwork, Deep Learning
-- Web, Design(ICISTS, 리더십3 강사), Teaching
+- Letwork, Server, Deep Learning
+- Web, Design, Teaching [[20S award](https://drive.google.com/file/d/1U8liB2NROc_B70dX06pRHam6cjA62F9T/view?usp=sharing)]
