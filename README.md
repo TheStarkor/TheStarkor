@@ -8,7 +8,7 @@
 - [ICISTS](http://www.icists.org/)(International Conference for the Integration of Science)
   - 2018.08 ~ 2019.08 : Tech & Design Head [[Photos](http://www.icists.org/2019)], [[Projects](https://docs.google.com/presentation/d/1N4rhKIhlKTXXitN0S_-J4TYuYETpGRzY79fnSniKw_o/edit?usp=sharing)], [[github](https://github.com/icists)]
   - 2018.03 ~ 2018.08 : Media Member [[Photos](http://www.icists.org/2018)]
-- School Projects : [[Multi-view 3D Pose Estimation](https://github.com/TheStarkor/CS409-meeting)], [[Dr.Papper](https://github.com/bonjune/dr-papper)], [[Eye-Car](https://github.com/TheStarkor/Eye-Car)]
+- School Projects : [[Multi-view 3D Pose Estimation](https://github.com/TheStarkor/multiview-3d-pose-estimation)], [[Dr.Papper](https://github.com/bonjune/dr-papper)], [[Eye-Car](https://github.com/TheStarkor/Eye-Car)]
 
 ### Interest
 - Letwork, Server, [Deep Learning](https://github.com/TheStarkor/Deep-Learning-Examples)
