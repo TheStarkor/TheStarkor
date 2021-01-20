@@ -1,6 +1,6 @@
 ### Hello👋
-- [INA](http://ina.kaist.ac.kr/new_home/index.html)(Intelligent Network Architecture and Distributed Systems Research Lab) Student Researcher
-  - 2020.07 ~ Present : Student Researcher
+- [INA](http://ina.kaist.ac.kr/new_home/index.html)(Intelligent Network Architecture and Distributed Systems Research Lab)
+  - 2020.07 ~ Present : Student Research
   - 2019.12 ~ 2020.07 : 2020 Winter/Spring KAIST URP Program
     - VRNAS: A Practical Virtual Reality Streaming Framework via Effective DNN-based Super-resolution
 - [knoteHOW](https://knotehow.com) 
