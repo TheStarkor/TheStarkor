@@ -1,3 +1,8 @@
+<div align=center>
+
+[![RocketPunch Badge](https://img.shields.io/badge/-RocketPunch-blueviolet?style=flat-square&logoColor=white&link=https://www.rocketpunch.com/@ssumin6)](https://www.rocketpunch.com/@bsho0330)
+</div>
+
 ### Hello👋
 - [knoteHOW](https://knotehow.com) 
   - 2020.09 ~ Present : Backend/DevOps engineer
