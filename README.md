@@ -2,7 +2,8 @@
 
 </div>
 
-### Hello👋  [![RocketPunch Badge](https://img.shields.io/badge/-RocketPunch-blueviolet?style=flat-square&logoColor=white&link=https://www.rocketpunch.com/@ssumin6)](https://www.rocketpunch.com/@bsho0330)
+### Hello👋  [![RocketPunch Badge](https://img.shields.io/badge/-RocketPunch-blueviolet?style=flat-square&logoColor=white&link=https://www.rocketpunch.com/@ssumin6)](https://www.rocketpunch.com/@bsho0330)   [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://www.notion.so/thestar/e6f6b641bd8f493085e5f044182dcae3)](https://www.notion.so/thestar/e6f6b641bd8f493085e5f044182dcae3)
+
 
 - [knoteHOW](https://knotehow.com) 
   - 2020.09 ~ Present : Backend/DevOps engineer
