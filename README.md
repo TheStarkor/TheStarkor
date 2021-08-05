@@ -11,7 +11,7 @@
   - 2020.09 ~ 2021.07 : Backend/DevOps engineer
 
 ### Research
-- [MLILAB](https://mli.kaist.ac.kr/)(MACHINE LEARNING AND INTELLIGENCE LAB)
+- [MLILAB](https://mli.kaist.ac.kr/)(Machine Learning and Intelligence Lab)
   - 2021.07 ~ 2021.08 : Undergraduate Student Researcher [[Proejcts](https://github.com/TheStarkor/mlilab-21s)]
 - [INA](http://ina.kaist.ac.kr/new_home/index.html)(Intelligent Network Architecture and Distributed Systems Research Lab)
   - 2020.07 ~ 2021.03 : Undergraduate Student Researcher
