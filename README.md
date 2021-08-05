@@ -2,7 +2,9 @@
 
 </div>
 
-### Seungho Baek👋   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seungho-baek-153a52181)](https://www.linkedin.com/in/seungho-baek-153a52181)[![RocketPunch Badge](https://img.shields.io/badge/-RocketPunch-blueviolet?style=flat-square&logoColor=white&link=https://www.rocketpunch.com/@ssumin6)](https://www.rocketpunch.com/@bsho0330)   [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://www.notion.so/thestar/e6f6b641bd8f493085e5f044182dcae3)](https://www.notion.so/thestar/e6f6b641bd8f493085e5f044182dcae3)
+Seungho Baek👋
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seungho-baek-153a52181)](https://www.linkedin.com/in/seungho-baek-153a52181)[![RocketPunch Badge](https://img.shields.io/badge/-RocketPunch-blueviolet?style=flat-square&logoColor=white&link=https://www.rocketpunch.com/@ssumin6)](https://www.rocketpunch.com/@bsho0330)   [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://www.notion.so/thestar/e6f6b641bd8f493085e5f044182dcae3)](https://www.notion.so/thestar/e6f6b641bd8f493085e5f044182dcae3)
 
 ### Work
 - [The Millk](https://www.themiilk.com/about)
