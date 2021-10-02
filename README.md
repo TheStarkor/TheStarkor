@@ -14,7 +14,7 @@ Seungho Baek👋
 
 ### Research
 - [MLILAB](https://mli.kaist.ac.kr/)(Machine Learning and Intelligence Lab)
-  - 2021.07 ~ 2021.08 : Undergraduate Student Researcher [[Proejcts](https://github.com/TheStarkor/mlilab-21s)]
+  - 2021.07 ~ 2021.08 : Undergraduate Student Researcher
 - [INA](http://ina.kaist.ac.kr/new_home/index.html)(Intelligent Network Architecture and Distributed Systems Research Lab)
   - 2020.07 ~ 2021.03 : Undergraduate Student Researcher
   - 2019.12 ~ 2020.07 : 2020 Winter/Spring KAIST URP Program
