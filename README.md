@@ -12,11 +12,6 @@ Seungho Baek👋
 - [knoteHOW](https://knotehow.com) 
   - 2020.09 ~ 2021.07 : Backend/DevOps engineer
 
-### Media
-- [(매일경제)KAIST 교육 프로그램](https://www.mk.co.kr/news/it/view/2021/07/706614/)
-- [PyCon2021 Speaker](https://2021.pycon.kr/session/24/)
-  - Title: 매일이 새로운 초기 스타트업, 파이썬과 함께라면?
-
 ### Research
 - [MLILAB](https://mli.kaist.ac.kr/)(Machine Learning and Intelligence Lab)
   - 2021.07 ~ 2021.08 : Undergraduate Student Researcher
@@ -24,6 +19,11 @@ Seungho Baek👋
   - 2020.07 ~ 2021.03 : Undergraduate Student Researcher
   - 2019.12 ~ 2020.07 : 2020 Winter/Spring KAIST URP Program
     - VRNAS: A Practical Virtual Reality Streaming Framework via Effective DNN-based Super-resolution
+
+### Media
+- [(매일경제)KAIST 교육 프로그램](https://www.mk.co.kr/news/it/view/2021/07/706614/)
+- [PyCon2021 Speaker](https://2021.pycon.kr/session/24/)
+  - Title: 매일이 새로운 초기 스타트업, 파이썬과 함께라면?
 
 ### Projects
 - [Multi-view 3D Pose Estimation](https://github.com/TheStarkor/multiview-3d-pose-estimation)
