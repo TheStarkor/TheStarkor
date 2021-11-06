@@ -4,7 +4,7 @@
 
 Seungho Baek👋
 
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://www.notion.so/thestar/e6f6b641bd8f493085e5f044182dcae3)](https://www.notion.so/thestar/e6f6b641bd8f493085e5f044182dcae3)[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seungho-baek-153a52181)](https://www.linkedin.com/in/seungho-baek-153a52181)[![RocketPunch Badge](https://img.shields.io/badge/-RocketPunch-blueviolet?style=flat-square&logoColor=white&link=https://www.rocketpunch.com/@ssumin6)](https://www.rocketpunch.com/@bsho0330)   
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://thestar.notion.site/e6f6b641bd8f493085e5f044182dcae3)[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seungho-baek-153a52181)](https://www.linkedin.com/in/seungho-baek-153a52181)[![RocketPunch Badge](https://img.shields.io/badge/-RocketPunch-blueviolet?style=flat-square&logoColor=white&link=https://www.rocketpunch.com/@ssumin6)](https://www.rocketpunch.com/@bsho0330)   
 
 ### Work
 - [The Millk](https://www.themiilk.com/about)
@@ -27,8 +27,8 @@ Seungho Baek👋
 
 ### Projects
 - [Multi-view 3D Pose Estimation](https://github.com/TheStarkor/multiview-3d-pose-estimation)
-- [기계학습 기반 콘텐츠 전송 시뮬레이터 구현](https://www.notion.so/thestar/e6f6b641bd8f493085e5f044182dcae3#381550e86f8a412590f31c952b41ee98)
-- [VRNAS](https://www.notion.so/thestar/e6f6b641bd8f493085e5f044182dcae3#381550e86f8a412590f31c952b41ee98)
+- [기계학습 기반 콘텐츠 전송 시뮬레이터 구현](https://thestar.notion.site/e6f6b641bd8f493085e5f044182dcae3)
+- [VRNAS](https://thestar.notion.site/e6f6b641bd8f493085e5f044182dcae3)
 
 ### Services
 - [도란도란](https://play.google.com/store/apps/details?id=com.winnerho.dorandoran)
