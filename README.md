@@ -30,11 +30,6 @@ Seungho Baek👋
 - [기계학습 기반 콘텐츠 전송 시뮬레이터 구현](https://thestar.notion.site/e6f6b641bd8f493085e5f044182dcae3)
 - [VRNAS](https://thestar.notion.site/e6f6b641bd8f493085e5f044182dcae3)
 
-### Services
-- [도란도란](https://play.google.com/store/apps/details?id=com.winnerho.dorandoran)
-- [Boost](https://www.buob.io/)
-- [가치한끼](https://yummeal.ai/)
-
 ### Etc.
 - [ICISTS](http://www.icists.org/)(International Conference for the Integration of Science)
   - 2018.08 ~ 2019.08 : Tech & Design Head [[Photos](http://www.icists.org/2019)], [[Projects](https://docs.google.com/presentation/d/1N4rhKIhlKTXXitN0S_-J4TYuYETpGRzY79fnSniKw_o/edit?usp=sharing)], [[github](https://github.com/icists)]
