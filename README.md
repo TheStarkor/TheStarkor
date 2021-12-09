@@ -14,8 +14,6 @@ Seungho Baek👋
   - 2020.09 ~ 2021.07 : Backend/DevOps engineer
 
 ### Research
-- [AEL](https://reflect9.github.io/ael/)(AI Experience Lab)
-  - 2021.11 ~ Present : Senior Paper
 - [MLILAB](https://mli.kaist.ac.kr/)(Machine Learning and Intelligence Lab)
   - 2021.07 ~ 2021.08 : Undergraduate Student Researcher
 - [INA](http://ina.kaist.ac.kr/new_home/index.html)(Intelligent Network Architecture and Distributed Systems Research Lab)
