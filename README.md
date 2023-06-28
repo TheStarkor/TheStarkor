@@ -8,7 +8,9 @@ Seungho Baek👋
   
 
 ### Work
+- [Korea Military Academy](https://www.kma.ac.kr:461/)
+  - 2023.02 ~ Present : Big Data Researcher
 - [The Millk](https://www.themiilk.com/about)
-  - 2021.08 ~ Present : Software Engineer 
+  - 2021.08 ~ 2023.01 : Software Engineer 
 - [knoteHOW](https://knotehow.com) 
-  - 2020.09 ~ 2021.07 : Backend/DevOps engineer
+  - 2020.09 ~ 2021.07 : Software Engineer
